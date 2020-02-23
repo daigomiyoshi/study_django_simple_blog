@@ -1,0 +1,1 @@
+# study_django_simple_blog
